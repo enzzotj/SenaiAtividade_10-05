@@ -1,0 +1,16 @@
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\10.05\Atividade 7\bin\Debug\net5.0\Atividade 7.exe
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\10.05\Atividade 7\bin\Debug\net5.0\Atividade 7.deps.json
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\10.05\Atividade 7\bin\Debug\net5.0\Atividade 7.runtimeconfig.json
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\10.05\Atividade 7\bin\Debug\net5.0\Atividade 7.runtimeconfig.dev.json
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\10.05\Atividade 7\bin\Debug\net5.0\Atividade 7.dll
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\10.05\Atividade 7\bin\Debug\net5.0\ref\Atividade 7.dll
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\10.05\Atividade 7\bin\Debug\net5.0\Atividade 7.pdb
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\10.05\Atividade 7\obj\Debug\net5.0\Atividade 7.csprojAssemblyReference.cache
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\10.05\Atividade 7\obj\Debug\net5.0\Atividade 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\10.05\Atividade 7\obj\Debug\net5.0\Atividade 7.AssemblyInfoInputs.cache
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\10.05\Atividade 7\obj\Debug\net5.0\Atividade 7.AssemblyInfo.cs
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\10.05\Atividade 7\obj\Debug\net5.0\Atividade 7.csproj.CoreCompileInputs.cache
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\10.05\Atividade 7\obj\Debug\net5.0\Atividade 7.dll
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\10.05\Atividade 7\obj\Debug\net5.0\ref\Atividade 7.dll
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\10.05\Atividade 7\obj\Debug\net5.0\Atividade 7.pdb
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\10.05\Atividade 7\obj\Debug\net5.0\Atividade 7.genruntimeconfig.cache
